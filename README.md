@@ -22,11 +22,11 @@ Reports the following data:
 ## Activation
 
 - Reports will only be sent, if service is activated
- - To do so create a file called `activated.flag` in the working directory of the Docker container
+  - To do so create a file called `activated.flag` in the working directory of the Docker container
 
 ## Todo / Future Enhancements
 
 - Take multiple pictures, screenshots (maybe also detect changes)
- - Cache images until connection is available
+  - Cache images until connection is available
 - Survive wipes
 - Web UI (incl. data visualization)
